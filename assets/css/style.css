@@ -384,6 +384,10 @@ section {
   margin-bottom: 0;
 }
 
+#img-fluid {
+  border-radius: 18px;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -577,6 +581,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius: 12px;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -863,6 +868,7 @@ section {
   background: #fff;
   width: 100%;
   box-shadow: 0 1px 5px 0 rgba(41, 41, 41, 0.12);
+  border-radius: 14px;
 }
 
 .contact .info i {
